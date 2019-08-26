@@ -155,6 +155,12 @@ a:hover {
     color: purple;
 }
 
+legend {
+    font-weight: bold;
+    font-size: 1.6em;
+    padding: 10px;
+}
+
                                 /*  #id's */
 h6 {
      margin-top: 3px;
